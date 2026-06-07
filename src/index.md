@@ -4,7 +4,7 @@ toc: false
 
 <div class="hero">
   <h3>Interactive County Explorer</h3>
-  <h2>By Tobin Bohley as a part of Aayan Kazerouni's spring quarter 2026 section of CSC 477</h2>
+  <h2>By Tobin Bohley as a part of Ayaan Kazerouni's spring quarter 2026 section of CSC 477</h2>
 </div>
 
 # Data Center Explorer
